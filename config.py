@@ -1,5 +1,5 @@
-API_ID="Your App ID"
-API_HASH="Your API HASH"
+API_ID="445164"
+API_HASH="c1bb87d7c710c9e736d0c6a72dcb68d8"
 PRIVATE_CHANNEL_BOT_API_ID="USE .get_id to get from channel"              #For using .fwd command to forward a message directly without quotes to this specified channel
 PRIVATE_GROUP_BOT_API_ID="use .get_id "                #For using .fwd command to forward a message directly to a group or channel
 SCREEN_SHOT_LAYER_ACCESS_KEY="get from screenshot layer website google it "           #For using .screencapture commad...please refer readme for getting the key
